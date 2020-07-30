@@ -32,7 +32,7 @@ entries:
     output: web
     folderitems:
     - title: Data Provider Registration
-      url: /ngdac-netcdf-file-submission-process.html
+      url: /ngdac-netcdf-file-submission-process.html#data-provider-registration
       output: web
     - title: New Deployment Registration
       url: /ngdac-netcdf-file-submission-process.html#new-deployment-registration
@@ -54,7 +54,7 @@ entries:
     output: web
     folderitems:
     - title: Introduction
-      url: /ngdac-netcdf-file-format-version-2.html
+      url: /ngdac-netcdf-file-format-version-2.html#Introduction
       output: web      
     - title: File Naming Conventions
       url: /ngdac-netcdf-file-format-version-2.html#file-naming-conventions
@@ -62,7 +62,7 @@ entries:
     - title: Global Attributes
       url: /ngdac-netcdf-file-format-version-2.html#Global-Attributes
       output: web        
-        subfolderitems:       
+        folderitems:       
         - title: Caveats
           url: /ngdac-netcdf-file-format-version-2.html#caveats
           output: web          
